@@ -1,2 +1,3 @@
 inglese 7,5
 matematica 6
+italiano 5
